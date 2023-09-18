@@ -1,9 +1,12 @@
 h1 {color: black; 
     font-size: 30px;
-    text-align:center;}
-p{color:black; 
+    text-align: center;}
+a {color: black; 
+        font-size: 20px;
+        text-align: center;}
+p {color:black; 
     font-size: 20px; 
-    text-align:left;}
+    text-align: left;}
 body { background-color:darkolivegreen;
       }
       
